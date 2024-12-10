@@ -1,0 +1,14 @@
+- Create environment , and django project
+- App for core pages (front page etc)
+    - Base template
+    - Index (front-page)
+- App for the creators
+    - login
+    - signup
+    - creators list page
+    - creators details page
+    - my page
+    - edit my page
+- Deploy project to digital ocean (heroku, render)
+- Implement payment gateway
+- Test
